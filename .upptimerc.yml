@@ -12,7 +12,7 @@ status-website:
   cname: status.lixlabs.id
   # baseUrl: /your-repo-name
   logoUrl: https://lixlabs.id/public/images/logo.png
-  name: Upptime
+  name: LixLabs
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   # navbar:
