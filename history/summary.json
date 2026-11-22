@@ -4,17 +4,19 @@
     "url": "https://lixlabs.id",
     "icon": "https://icons.duckduckgo.com/ip3/lixlabs.id.ico",
     "slug": "lix-labs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 348,
-    "timeDay": 810,
-    "timeWeek": 1072,
-    "timeMonth": 413,
-    "timeYear": 348,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.90%",
+    "time": 358,
+    "timeDay": 801,
+    "timeWeek": 1036,
+    "timeMonth": 425,
+    "timeYear": 358,
+    "dailyMinutesDown": {
+      "2026-11-22": 55
+    }
   }
 ]
