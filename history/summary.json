@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lixlabs.id.ico",
     "slug": "lix-labs",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.90%",
-    "time": 371,
-    "timeDay": 950,
-    "timeWeek": 985,
-    "timeMonth": 447,
-    "timeYear": 371,
+    "uptimeYear": "99.91%",
+    "time": 382,
+    "timeDay": 879,
+    "timeWeek": 959,
+    "timeMonth": 469,
+    "timeYear": 382,
     "dailyMinutesDown": {
       "2026-11-22": 55
     }
